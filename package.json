@@ -1,0 +1,23 @@
+{
+  "name": "testing-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akucintavalent/testing-practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akucintavalent/testing-practise/issues"
+  },
+  "homepage": "https://github.com/akucintavalent/testing-practise#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
